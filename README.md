@@ -6,15 +6,15 @@
 
 # ⚡ ABU ZAR MISHWANI
 
-### Tech Entrepreneur & Lead Developer @ HindukushSoft Technologies
+### Software Engineer | Tech Entrepreneur | CEO & Lead Developer @ HindukushSoft Technologies
 
 <br />
 
 <!-- SOCIAL LINKS — No Background, Pure Icons -->
-<a href="https://mishwani.is-a.dev"><img src="https://cdn.simpleicons.org/vercel/6634F1" height="28" alt="Website" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://mishwani.is-a.dev"><img src="https://cdn.simpleicons.org/devdotto/6634F1" height="28" alt="Portfolio" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.hindukushsoft.com"><img src="https://cdn.simpleicons.org/googlechrome/B882FC" height="28" alt="Company" /></a> &nbsp;&nbsp;&nbsp;
 <a href="mailto:ceo@hindukushsoft.com"><img src="https://cdn.simpleicons.org/gmail/D14836" height="28" alt="Email" /></a> &nbsp;&nbsp;&nbsp;
-<a href="https://linkedin.com/in/mishwani7"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="28" alt="LinkedIn" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/mishwani7"><img src="assets/li.svg" height="28" alt="LI" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.facebook.com/abuzar.mishwani"><img src="https://cdn.simpleicons.org/facebook/1877F2" height="28" alt="Facebook" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://instagram.com/abuzar.mishwani"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="28" alt="Instagram" /></a> &nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/itsabuzarr"><img src="https://cdn.simpleicons.org/x/000000" height="28" alt="X" /></a> &nbsp;&nbsp;&nbsp;
