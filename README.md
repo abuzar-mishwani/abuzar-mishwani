@@ -4,12 +4,8 @@
 
 <div align="center">
 
-<!-- ANIMATED TYPING HEADER -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=B882FC&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%24+Abu+Zar+Mishwani" alt="Typing SVG" /></a>
-
-<br />
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=2500&pause=800&color=6634F1&center=true&vCenter=true&repeat=true&width=700&height=30&lines=CEO+%26+Lead+Developer+%40+HindukushSoft+Technologies;Fiverr+Vetted+Pro+%7C+Full+Stack+Engineer;Building+Enterprise+Software+for+Real-World+Impact" alt="Typing SVG" /></a>
+<!-- CUSTOM CYBERPUNK ANIMATED SVG HEADER -->
+<img src="cyberpunk-header.svg" width="100%" alt="Abu Zar Mishwani - Tech Entrepreneur" />
 
 <br /><br />
 
