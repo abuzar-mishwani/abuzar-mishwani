@@ -221,16 +221,25 @@ Billing, supplier management, khaata management, expense tracking, and role-base
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api?username=abuzar-mishwani&show_icons=true&hide_border=true&bg_color=transparent&title_color=b882fc&icon_color=6634f1&text_color=c9d1d9&ring_color=6634f1#gh-dark-mode-only" width="48%" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api?username=abuzar-mishwani&show_icons=true&hide_border=true&bg_color=transparent&title_color=6634f1&icon_color=b882fc&text_color=333333#gh-light-mode-only" width="48%" alt="GitHub Stats" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=abuzar-mishwani&show_icons=true&hide_border=true&bg_color=00000000&title_color=b882fc&icon_color=6634f1&text_color=c9d1d9&ring_color=6634f1" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=abuzar-mishwani&show_icons=true&hide_border=true&bg_color=00000000&title_color=6634f1&icon_color=b882fc&text_color=333333" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abuzar-mishwani&show_icons=true&hide_border=true&bg_color=00000000&title_color=6634f1&icon_color=b882fc&text_color=333333" alt="GitHub Stats" />
+</picture>
 &nbsp;
-<img src="https://streak-stats.demolab.com/?user=abuzar-mishwani&hide_border=true&background=transparent&ring=6634f1&fire=b882fc&currStreakLabel=b882fc&sideLabels=c9d1d9&dates=555555#gh-dark-mode-only" width="48%" alt="GitHub Streak" />
-<img src="https://streak-stats.demolab.com/?user=abuzar-mishwani&hide_border=true&background=transparent&ring=6634f1&fire=b882fc&currStreakLabel=6634f1&sideLabels=333333&dates=888888#gh-light-mode-only" width="48%" alt="GitHub Streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=abuzar-mishwani&hide_border=true&background=00000000&ring=6634f1&fire=b882fc&currStreakLabel=b882fc&sideLabels=c9d1d9&dates=555555" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=abuzar-mishwani&hide_border=true&background=00000000&ring=6634f1&fire=b882fc&currStreakLabel=6634f1&sideLabels=333333&dates=888888" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=abuzar-mishwani&hide_border=true&background=00000000&ring=6634f1&fire=b882fc&currStreakLabel=6634f1&sideLabels=333333&dates=888888" alt="GitHub Streak" />
+</picture>
 
 <br /><br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuzar-mishwani&layout=compact&hide_border=true&bg_color=transparent&title_color=b882fc&text_color=c9d1d9&langs_count=8#gh-dark-mode-only" width="40%" alt="Top Languages" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abuzar-mishwani&layout=compact&hide_border=true&bg_color=transparent&title_color=6634f1&text_color=333333&langs_count=8#gh-light-mode-only" width="40%" alt="Top Languages" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abuzar-mishwani&layout=compact&hide_border=true&bg_color=00000000&title_color=b882fc&text_color=c9d1d9&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abuzar-mishwani&layout=compact&hide_border=true&bg_color=00000000&title_color=6634f1&text_color=333333&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abuzar-mishwani&layout=compact&hide_border=true&bg_color=00000000&title_color=6634f1&text_color=333333&langs_count=8" alt="Top Languages" />
+</picture>
 
 </div>
 
@@ -250,8 +259,11 @@ Billing, supplier management, khaata management, expense tracking, and role-base
 <br />
 
 <a href="https://github.com/abuzar-mishwani">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abuzar-mishwani&bg_color=transparent&color=b882fc&line=6634f1&point=b882fc&area=true&hide_border=true&area_color=6634f130#gh-dark-mode-only" width="100%" alt="Activity Graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abuzar-mishwani&bg_color=transparent&color=6634f1&line=b882fc&point=6634f1&area=true&hide_border=true&area_color=b882fc30#gh-light-mode-only" width="100%" alt="Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abuzar-mishwani&bg_color=00000000&color=b882fc&line=6634f1&point=b882fc&area=true&hide_border=true&area_color=6634f130" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abuzar-mishwani&bg_color=00000000&color=6634f1&line=b882fc&point=6634f1&area=true&hide_border=true&area_color=b882fc30" />
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abuzar-mishwani&bg_color=00000000&color=6634f1&line=b882fc&point=6634f1&area=true&hide_border=true&area_color=b882fc30" alt="Activity Graph" />
+  </picture>
 </a>
 
 </div>
