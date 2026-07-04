@@ -116,13 +116,11 @@ const abu_zar = {
 
 <br />
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  Role:    Lead Developer                                        │
-│  Status:  ☑️ Production                                          │
-│  Stack:   React · TypeScript · Laravel · MySQL · Vite            │
-│  Live:    https://mfsckp.com                                     │
-└─────────────────────────────────────────────────────────────────┘
+```yaml
+Role:   Lead Developer
+Status: ☑️ Production
+Stack:  React · TypeScript · Laravel · MySQL · Vite
+Live:   https://mfsckp.com
 ```
 
 A massive production-grade enterprise MIS for the Agriculture Department.
@@ -137,13 +135,11 @@ Currently rolling out across **all 38 districts of Khyber Pakhtunkhwa** under th
 
 <br />
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  Role:    Solo Developer                                         │
-│  Status:  ☑️ Production — #1 Worldwide on Android                │
-│  Stack:   Kotlin · Jetpack Compose · Material 3                  │
-│  Users:   50,000+ Downloads                                      │
-└─────────────────────────────────────────────────────────────────┘
+```yaml
+Role:   Solo Developer
+Status: ☑️ Production — #1 Worldwide on Android
+Stack:  Kotlin · Jetpack Compose · Material 3
+Users:  50,000+ Downloads
 ```
 
 The #1 GPA Calculator app globally on Android. Custom grading scales, semester planning,
@@ -158,13 +154,11 @@ target GPA forecasting, and professional PDF reporting.
 
 <br />
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  Role:    Lead Developer                                         │
-│  Status:  ☑️ Production                                          │
-│  Stack:   Next.js · Payload CMS · TypeScript                     │
-│  Client:  Naples, Florida                                        │
-└─────────────────────────────────────────────────────────────────┘
+```yaml
+Role:   Lead Developer
+Status: ☑️ Production
+Stack:  Next.js · Payload CMS · TypeScript
+Client: Naples, Florida
 ```
 
 Full-stack web platform for a fine dining restaurant. Dynamic menu management,
@@ -179,13 +173,11 @@ CMS-powered content, and polished brand experience.
 
 <br />
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  Role:    Lead Developer                                         │
-│  Status:  ☑️ Production                                          │
-│  Stack:   React.js · TypeScript · Vite · Tailwind CSS            │
-│  Client:  Chitral, Pakistan                                      │
-└─────────────────────────────────────────────────────────────────┘
+```yaml
+Role:   Lead Developer
+Status: ☑️ Production
+Stack:  React.js · TypeScript · Vite · Tailwind CSS
+Client: Chitral, Pakistan
 ```
 
 Custom hospitality website with room showcases, booking inquiries, gallery,
@@ -200,13 +192,11 @@ and integrated desktop hotel management software.
 
 <br />
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  Role:    Lead Developer                                         │
-│  Status:  ☑️ Production                                          │
-│  Stack:   Electron · React · TypeScript · SQLite                 │
-│  Type:    Desktop Application                                    │
-└─────────────────────────────────────────────────────────────────┘
+```yaml
+Role:   Lead Developer
+Status: ☑️ Production
+Stack:  Electron · React · TypeScript · SQLite
+Type:   Desktop Application
 ```
 
 Desktop POS and inventory management system for retail businesses.
