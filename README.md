@@ -4,29 +4,21 @@
 
 <div align="center">
 
-<!-- CUSTOM CYBERPUNK ANIMATED SVG HEADER -->
-<img src="cyberpunk-header.svg" width="100%" alt="Abu Zar Mishwani - Tech Entrepreneur" />
+# ⚡ ABU ZAR MISHWANI
 
-<br /><br />
-
-<!-- SOCIAL LINKS — Minimal flat square style -->
-[![Portfolio](https://img.shields.io/badge/%20-mishwani.is--a.dev-0d1117?style=flat-square&logo=vercel&logoColor=b882fc)](https://mishwani.is-a.dev)
-&nbsp;
-[![Company](https://img.shields.io/badge/%20-HindukushSoft_Technologies-0d1117?style=flat-square&logo=google-chrome&logoColor=6634f1)](https://www.hindukushsoft.com)
-&nbsp;
-[![Email](https://img.shields.io/badge/%20-ceo@hindukushsoft.com-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:ceo@hindukushsoft.com)
-&nbsp;
-[![Fiverr](https://img.shields.io/badge/%20-Vetted_Pro-0d1117?style=flat-square&logo=fiverr&logoColor=1DBF73)](https://www.fiverr.com/users/hindukushsoft/)
+### Tech Entrepreneur & Lead Developer @ HindukushSoft Technologies
 
 <br />
 
-[![LinkedIn](https://img.shields.io/badge/-0d1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/mishwani7)
-&nbsp;
-[![Facebook](https://img.shields.io/badge/-0d1117?style=flat-square&logo=facebook&logoColor=1877F2)](https://www.facebook.com/abuzar.mishwani)
-&nbsp;
-[![Instagram](https://img.shields.io/badge/-0d1117?style=flat-square&logo=instagram&logoColor=E4405F)](https://instagram.com/abuzar.mishwani)
-&nbsp;
-[![X](https://img.shields.io/badge/-0d1117?style=flat-square&logo=x&logoColor=ffffff)](https://twitter.com/itsabuzarr)
+<!-- SOCIAL LINKS — No Background, Pure Icons -->
+<a href="https://mishwani.is-a.dev"><img src="https://cdn.simpleicons.org/vercel/6634F1" height="28" alt="Website" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.hindukushsoft.com"><img src="https://cdn.simpleicons.org/googlechrome/B882FC" height="28" alt="Company" /></a> &nbsp;&nbsp;&nbsp;
+<a href="mailto:ceo@hindukushsoft.com"><img src="https://cdn.simpleicons.org/gmail/D14836" height="28" alt="Email" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/mishwani7"><img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="28" alt="LinkedIn" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/abuzar.mishwani"><img src="https://cdn.simpleicons.org/facebook/1877F2" height="28" alt="Facebook" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/abuzar.mishwani"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="28" alt="Instagram" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/itsabuzarr"><img src="https://cdn.simpleicons.org/x/000000" height="28" alt="X" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.fiverr.com/users/hindukushsoft/"><img src="https://cdn.simpleicons.org/fiverr/1DBF73" height="28" alt="Fiverr" /></a>
 
 </div>
 
@@ -38,11 +30,11 @@
 // abuzar-mishwani.config.js
 
 const abu_zar = {
-    role:       "Founder, CEO & Lead Developer",
+    role:       "Tech Entrepreneur & Lead Developer",
     company:    "HindukushSoft Technologies Pvt. Ltd.",
     location:   "Chitral, Pakistan",
     education: {
-        current:  "M.Phil in Computer Science (In Progress)",
+        current:  "M.Phil in Computer Science — University of Chitral (In Progress)",
         degree:   "BS Computer Science — University of Chitral (2020–2024)",
     },
     expertise:  ["Enterprise Systems", "Government Digitization", "AI Integration"],
