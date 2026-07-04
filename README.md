@@ -37,9 +37,8 @@ const abu_zar = {
         current:  "M.Phil in Computer Science — University of Chitral (In Progress)",
         degree:   "BS Computer Science — University of Chitral (2020–2024)",
     },
-    expertise:  ["Enterprise Systems", "Government Digitization", "AI Integration"],
-    platforms:  ["Fiverr Vetted Pro"],
-    side:       ["TechABU Blog", "Spot Web Tools (190+ tools)"],
+    expertise:  ["Full Stack Web", "Mobile Apps", "Desktop Applications", "Enterprise Systems"],
+    side:       ["GPA Calculator & Planner", "TechABU Blog", "Spot Web Tools"],
     motto:      "Build things that matter. Ship things that last.",
 };
 ```
@@ -233,13 +232,7 @@ Billing, supplier management, khaata management, expense tracking, and role-base
   <img width="48%" src="https://streak-stats.demolab.com/?user=abuzar-mishwani&hide_border=true&background=00000000&ring=6634f1&fire=b882fc&currStreakLabel=6634f1&sideLabels=333333&dates=888888" alt="GitHub Streak" />
 </picture>
 
-<br /><br />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abuzar-mishwani&layout=compact&hide_border=true&bg_color=00000000&title_color=b882fc&text_color=c9d1d9&langs_count=8" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abuzar-mishwani&layout=compact&hide_border=true&bg_color=00000000&title_color=6634f1&text_color=333333&langs_count=8" />
-  <img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=abuzar-mishwani&layout=compact&hide_border=true&bg_color=00000000&title_color=6634f1&text_color=333333&langs_count=8" alt="Top Languages" />
-</picture>
 
 </div>
 
