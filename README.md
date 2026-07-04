@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# ⚡ ABU ZAR MISHWANI
+# ⚡ `<AbuZarMishwani />`
 
 ### Software Engineer | Tech Entrepreneur | CEO & Lead Developer @ HindukushSoft Technologies
 
@@ -287,8 +287,6 @@ Billing, supplier management, khaata management, expense tracking, and role-base
  ╚═════════════════════════════════════════════════════════════════╝
 ```
 
-<br />
 
-![Profile Views](https://komarev.com/ghpvc/?username=abuzar-mishwani&color=6634f1&style=flat-square&label=Profile+Views)
 
 </div>
