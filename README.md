@@ -267,12 +267,5 @@ Billing, supplier management, khaata management, expense tracking, and role-base
 
 <div align="center">
 
-```yaml
-motto:    "Build things that matter. Ship things that last."
-position: Founder & CEO @ HindukushSoft Technologies Pvt. Ltd.
-location: Chitral, Pakistan 🇵🇰
-```
-
-
 
 </div>
