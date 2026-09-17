@@ -234,26 +234,6 @@ Billing, supplier management, khaata management, expense tracking, and role-base
 
 <br />
 
-<!-- ═══════════════════════ ACTIVITY GRAPH ═══════════════════════ -->
-
-<div align="center">
-
-### `📈` Contribution Graph
-
-<br />
-
-<a href="https://github.com/abuzar-mishwani">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abuzar-mishwani&bg_color=00000000&color=b882fc&line=6634f1&point=b882fc&area=true&hide_border=true&area_color=6634f130" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=abuzar-mishwani&bg_color=00000000&color=6634f1&line=b882fc&point=6634f1&area=true&hide_border=true&area_color=b882fc30" />
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=abuzar-mishwani&bg_color=00000000&color=6634f1&line=b882fc&point=6634f1&area=true&hide_border=true&area_color=b882fc30" alt="Activity Graph" />
-  </picture>
-</a>
-
-</div>
-
-<br />
-
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
 <div align="center">
