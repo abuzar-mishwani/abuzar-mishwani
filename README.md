@@ -130,6 +130,28 @@ Currently rolling out across **all 38 districts of Khyber Pakhtunkhwa** under th
 </details>
 
 <details>
+<summary><b>📲 Qistora — Financing OS for Mobile Devices</b></summary>
+
+<br />
+
+```yaml
+Role:   Founder & Lead Developer
+Status: ☑️ Production
+Stack:  Android Device Owner (DPC) · Kotlin · MDM Infrastructure
+Live:   https://qistora.app
+```
+
+A device-financing and fleet management platform for retail mobile shops. Locks down financed
+Android phones at the kernel level (Device Owner mode) so merchants can enforce installment
+payments, restrict overdue devices remotely, and track a fleet from enrollment to final payment.
+Includes a 48-hour offline dead-man switch, anti-factory-reset protection, and a live merchant
+portal for managing borrowers, telemetry, and cashflow.
+
+[![Live](https://img.shields.io/badge/Live_Preview-qistora.app-6634f1?style=flat-square&logo=vercel&logoColor=white)](https://qistora.app)
+
+</details>
+
+<details>
 <summary><b>📱 GPA Calculator & Planner</b></summary>
 
 <br />
@@ -204,37 +226,6 @@ Billing, supplier management, khaata management, expense tracking, and role-base
 [![Live](https://img.shields.io/badge/Live_Preview-inventro.hindukushsoft.com-6634f1?style=flat-square&logo=vercel&logoColor=white)](https://inventro.hindukushsoft.com)
 
 </details>
-
-<br />
-
-<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:6634f1,50:b882fc,75:6634f1,100:0d1117&height=1" width="100%" alt="" />
-
-<br />
-
-<!-- ═══════════════════════ GITHUB STATS ═══════════════════════ -->
-
-<div align="center">
-
-### `📊` GitHub Analytics
-
-<br />
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=abuzar-mishwani&show_icons=true&hide_border=true&bg_color=00000000&title_color=b882fc&icon_color=6634f1&text_color=c9d1d9&ring_color=6634f1" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=abuzar-mishwani&show_icons=true&hide_border=true&bg_color=00000000&title_color=6634f1&icon_color=b882fc&text_color=333333" />
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=abuzar-mishwani&show_icons=true&hide_border=true&bg_color=00000000&title_color=6634f1&icon_color=b882fc&text_color=333333" alt="GitHub Stats" />
-</picture>
-&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=abuzar-mishwani&hide_border=true&background=00000000&ring=6634f1&fire=b882fc&currStreakLabel=b882fc&sideLabels=c9d1d9&dates=555555" />
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=abuzar-mishwani&hide_border=true&background=00000000&ring=6634f1&fire=b882fc&currStreakLabel=6634f1&sideLabels=333333&dates=888888" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=abuzar-mishwani&hide_border=true&background=00000000&ring=6634f1&fire=b882fc&currStreakLabel=6634f1&sideLabels=333333&dates=888888" alt="GitHub Streak" />
-</picture>
-
-
-
-</div>
 
 <br />
 
