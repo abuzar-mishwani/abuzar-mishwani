@@ -14,11 +14,9 @@ the infrastructure required to take ideas from prototype to production.
 
 `Python` `PyTorch` `Hugging Face` `Transformers` `TypeScript` `React` `Next.js` `Node.js` `PostgreSQL` `Docker`
 
-[Portfolio](https://mishwani.is-a.dev)  |  [Selected projects](#selected-projects)
-
 ---
 
-## Selected Projects
+## Recent Projects
 
 > As CEO & Lead Developer at **HindukushSoft Technologies**, I architect and build production systems that serve thousands of users.
 
