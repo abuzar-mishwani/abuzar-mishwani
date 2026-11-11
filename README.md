@@ -1,95 +1,37 @@
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                    ABU ZAR MISHWANI — GITHUB PROFILE              -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-### `<SoftwareEngineer />`  `<AIEngineer />`
+# `SOFTWARE ENGINEER`  `×`  `AI ENGINEER`
 
-#### Building production systems with applied AI, machine learning, and NLP
+### Full-stack systems. Applied intelligence. Production impact.
 
-<br />
+<p>
+  I design and ship production software and AI-powered systems, from reliable backend
+  infrastructure to practical NLP and LLM applications.
+</p>
+
+<br>
+
+<a href="#selected-projects">Selected Projects</a>
+&nbsp;&nbsp;|&nbsp;&nbsp;
+<a href="https://mishwani.is-a.dev">Portfolio</a>
 
 </div>
 
 <br />
 
-<!-- ═══════════════════════ TERMINAL BIO ═══════════════════════ -->
+## Core Stack
 
-```js
-// profile.config.ts
+**AI / ML:** Python, PyTorch, Hugging Face, Transformers, NLP, LLM Engineering, MLOps
 
-const engineer = {
-    identity: "Software Engineer + AI Engineer",
-    builds:   ["Full-Stack Systems", "Applied AI", "Machine Learning", "NLP"],
-    ships:    ["LLM Products", "Production APIs", "Reliable MLOps"],
-};
-```
+**Systems:** TypeScript, React, Next.js, Node.js, Laravel, PostgreSQL, Docker
 
-<br />
+<br>
 
-<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:6634f1,50:b882fc,75:6634f1,100:0d1117&height=1" width="100%" alt="" />
 
-<br />
+<br>
 
-<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
-
-<div align="center">
-
-### `⟨/⟩` Engineering Stack
-
-<br />
-
-<!-- AI & Machine Learning -->
-![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
-![Transformers](https://img.shields.io/badge/Transformers-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
-![NLP](https://img.shields.io/badge/NLP-0d1117?style=for-the-badge)
-![LLM Engineering](https://img.shields.io/badge/LLM_Engineering-0d1117?style=for-the-badge)
-![MLOps](https://img.shields.io/badge/MLOps-0d1117?style=for-the-badge&logo=mlflow&logoColor=0194E2)
-
-<!-- Languages -->
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-
-<!-- Frontend -->
-![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=ffffff)
-![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF)
-![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
-
-<!-- Backend & DB -->
-![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)
-![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
-![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=003B57)
-![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
-
-<!-- Tools -->
-![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
-![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff)
-![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=DD2C00)
-![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
-
-</div>
-
-<br />
-
-<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:6634f1,50:b882fc,75:6634f1,100:0d1117&height=1" width="100%" alt="" />
-
-<br />
-
-<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
-
-### `📦` Projects I Lead
+## Selected Projects
 
 > As CEO & Lead Developer at **HindukushSoft Technologies**, I architect and build production systems that serve thousands of users.
 
