@@ -4,8 +4,6 @@
 
 <div align="center">
 
-# ⚡ `<AbuZarMishwani />`
-
 ### Software Engineer & AI Engineer | Production Systems · Applied AI · Machine Learning · NLP
 
 <br />
