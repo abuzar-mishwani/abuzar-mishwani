@@ -4,9 +4,9 @@
 
 <div align="center">
 
-### SOFTWARE ENGINEER  |  AI ENGINEER
+### `<SoftwareEngineer />`  `<AIEngineer />`
 
-#### Production Systems, Applied AI, Machine Learning, and NLP
+#### Building production systems with applied AI, machine learning, and NLP
 
 <br />
 
@@ -17,13 +17,12 @@
 <!-- ═══════════════════════ TERMINAL BIO ═══════════════════════ -->
 
 ```js
-// abuzar-mishwani.config.js
+// profile.config.ts
 
-const abu_zar = {
-    role:       "Software Engineer & AI Engineer",
-    focus:      ["Full-Stack Systems", "Applied AI", "Machine Learning", "NLP"],
-    expertise:  ["LLM Engineering", "MLOps", "Backend Architecture", "Enterprise Software"],
-    motto:      "Build things that matter. Ship things that last.",
+const engineer = {
+    identity: "Software Engineer + AI Engineer",
+    builds:   ["Full-Stack Systems", "Applied AI", "Machine Learning", "NLP"],
+    ships:    ["LLM Products", "Production APIs", "Reliable MLOps"],
 };
 ```
 
@@ -42,12 +41,6 @@ const abu_zar = {
 
 <br />
 
-<!-- Languages -->
-![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
-
 <!-- AI & Machine Learning -->
 ![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch&logoColor=EE4C2C)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-0d1117?style=for-the-badge&logo=huggingface&logoColor=FFD21E)
@@ -55,6 +48,12 @@ const abu_zar = {
 ![NLP](https://img.shields.io/badge/NLP-0d1117?style=for-the-badge)
 ![LLM Engineering](https://img.shields.io/badge/LLM_Engineering-0d1117?style=for-the-badge)
 ![MLOps](https://img.shields.io/badge/MLOps-0d1117?style=for-the-badge&logo=mlflow&logoColor=0194E2)
+
+<!-- Languages -->
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
 
 <!-- Frontend -->
 ![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
