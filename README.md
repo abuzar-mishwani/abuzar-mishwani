@@ -1,22 +1,110 @@
-## Software Engineer & AI Engineer
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                    ABU ZAR MISHWANI — GITHUB PROFILE              -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-I build production software and applied AI systems that turn complex workflows into
-reliable, useful products.
+<div align="center">
 
-My work spans full-stack architecture, machine learning, NLP, LLM engineering, and
-the infrastructure required to take ideas from prototype to production.
+# ⚡ `<AbuZarMishwani />`
 
-**Focus**
+### Software Engineer | Tech Entrepreneur | CEO & Lead Developer @ HindukushSoft Technologies
 
-`Applied AI` `Machine Learning` `NLP` `LLM Engineering` `MLOps`
+<br />
 
-**Core stack**
+<!-- SOCIAL LINKS — No Background, Pure Icons -->
+<a href="https://mishwani.is-a.dev"><img src="https://cdn.simpleicons.org/devdotto/6634F1" height="28" alt="Portfolio" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.hindukushsoft.com"><img src="https://cdn.simpleicons.org/googlechrome/B882FC" height="28" alt="Company" /></a> &nbsp;&nbsp;&nbsp;
+<a href="mailto:ceo@hindukushsoft.com"><img src="https://cdn.simpleicons.org/gmail/D14836" height="28" alt="Email" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://linkedin.com/in/mishwani7"><img src="assets/li.svg" height="28" alt="LI" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.facebook.com/abuzar.mishwani"><img src="https://cdn.simpleicons.org/facebook/1877F2" height="28" alt="Facebook" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://instagram.com/abuzar.mishwani"><img src="https://cdn.simpleicons.org/instagram/E4405F" height="28" alt="Instagram" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/itsabuzarr"><img src="https://cdn.simpleicons.org/x/000000" height="28" alt="X" /></a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.fiverr.com/users/hindukushsoft/"><img src="https://cdn.simpleicons.org/fiverr/1DBF73" height="28" alt="Fiverr" /></a>
 
-`Python` `PyTorch` `Hugging Face` `Transformers` `TypeScript` `React` `Next.js` `Node.js` `PostgreSQL` `Docker`
+</div>
 
----
+<br />
 
-## Recent Projects
+<!-- ═══════════════════════ TERMINAL BIO ═══════════════════════ -->
+
+```js
+// abuzar-mishwani.config.js
+
+const abu_zar = {
+    role:       "Tech Entrepreneur & Lead Developer",
+    company:    "HindukushSoft Technologies Pvt. Ltd.",
+    location:   "Chitral, Pakistan",
+    education: {
+        current:  "M.Phil in Computer Science — University of Chitral (In Progress)",
+        degree:   "BS Computer Science — University of Chitral (2020–2024)",
+    },
+    expertise:  ["Full Stack Web", "Mobile Apps", "Desktop Applications", "Enterprise Systems"],
+    side:       ["GPA Calculator & Planner", "TechABU Blog", "Spot Web Tools"],
+    motto:      "Build things that matter. Ship things that last.",
+};
+```
+
+<br />
+
+<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:6634f1,50:b882fc,75:6634f1,100:0d1117&height=1" width="100%" alt="" />
+
+<br />
+
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+
+<div align="center">
+
+### `⟨/⟩` Tech Stack
+
+<br />
+
+<!-- Languages -->
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![PHP](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
+![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+
+<!-- Frontend -->
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=next.js&logoColor=ffffff)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=646CFF)
+![Tailwind](https://img.shields.io/badge/Tailwind-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=06B6D4)
+
+<!-- Backend & DB -->
+![Laravel](https://img.shields.io/badge/Laravel-0d1117?style=for-the-badge&logo=laravel&logoColor=FF2D20)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![MySQL](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![SQLite](https://img.shields.io/badge/SQLite-0d1117?style=for-the-badge&logo=sqlite&logoColor=003B57)
+![MongoDB](https://img.shields.io/badge/MongoDB-0d1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+
+<!-- Mobile -->
+![Android](https://img.shields.io/badge/Android-0d1117?style=for-the-badge&logo=android&logoColor=34A853)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-0d1117?style=for-the-badge&logo=jetpack-compose&logoColor=4285F4)
+
+<!-- Tools -->
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker&logoColor=2496ED)
+![VS Code](https://img.shields.io/badge/VS_Code-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![Figma](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Vercel](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/Firebase-0d1117?style=for-the-badge&logo=firebase&logoColor=DD2C00)
+![Postman](https://img.shields.io/badge/Postman-0d1117?style=for-the-badge&logo=postman&logoColor=FF6C37)
+
+</div>
+
+<br />
+
+<!-- ═══════════════════════ DIVIDER ═══════════════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:6634f1,50:b882fc,75:6634f1,100:0d1117&height=1" width="100%" alt="" />
+
+<br />
+
+<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
+
+### `📦` Projects I Lead
 
 > As CEO & Lead Developer at **HindukushSoft Technologies**, I architect and build production systems that serve thousands of users.
 
@@ -30,7 +118,7 @@ the infrastructure required to take ideas from prototype to production.
 ```yaml
 Role:   Lead Developer
 Status: ☑️ Production
-Stack:  React, TypeScript, Laravel, MySQL, Vite
+Stack:  React · TypeScript · Laravel · MySQL · Vite
 Live:   https://mfsckp.com
 ```
 
@@ -49,7 +137,7 @@ Currently rolling out across **all 38 districts of Khyber Pakhtunkhwa** under th
 ```yaml
 Role:   Founder & Lead Developer
 Status: ☑️ Production
-Stack:  Android Device Owner (DPC), Kotlin, MDM Infrastructure
+Stack:  Android Device Owner (DPC) · Kotlin · MDM Infrastructure
 Live:   https://qistora.app
 ```
 
@@ -71,7 +159,7 @@ portal for managing borrowers, telemetry, and cashflow.
 ```yaml
 Role:   Solo Developer
 Status: ☑️ Production — #1 Worldwide on Android
-Stack:  Kotlin, Jetpack Compose, Material 3
+Stack:  Kotlin · Jetpack Compose · Material 3
 Users:  50,000+ Downloads
 ```
 
@@ -90,7 +178,7 @@ target GPA forecasting, and professional PDF reporting.
 ```yaml
 Role:   Lead Developer
 Status: ☑️ Production
-Stack:  Next.js, Payload CMS, TypeScript
+Stack:  Next.js · Payload CMS · TypeScript
 Client: Naples, Florida
 ```
 
@@ -109,7 +197,7 @@ CMS-powered content, and polished brand experience.
 ```yaml
 Role:   Lead Developer
 Status: ☑️ Production
-Stack:  React.js, TypeScript, Vite, Tailwind CSS
+Stack:  React.js · TypeScript · Vite · Tailwind CSS
 Client: Chitral, Pakistan
 ```
 
@@ -128,7 +216,7 @@ and integrated desktop hotel management software.
 ```yaml
 Role:   Lead Developer
 Status: ☑️ Production
-Stack:  Electron, React, TypeScript, SQLite
+Stack:  Electron · React · TypeScript · SQLite
 Type:   Desktop Application
 ```
 
