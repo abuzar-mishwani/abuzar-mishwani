@@ -4,7 +4,9 @@
 
 <div align="center">
 
-### Software Engineer & AI Engineer | Production Systems · Applied AI · Machine Learning · NLP
+### SOFTWARE ENGINEER  |  AI ENGINEER
+
+#### Production Systems, Applied AI, Machine Learning, and NLP
 
 <br />
 
@@ -102,7 +104,7 @@ const abu_zar = {
 ```yaml
 Role:   Lead Developer
 Status: ☑️ Production
-Stack:  React · TypeScript · Laravel · MySQL · Vite
+Stack:  React, TypeScript, Laravel, MySQL, Vite
 Live:   https://mfsckp.com
 ```
 
@@ -121,7 +123,7 @@ Currently rolling out across **all 38 districts of Khyber Pakhtunkhwa** under th
 ```yaml
 Role:   Founder & Lead Developer
 Status: ☑️ Production
-Stack:  Android Device Owner (DPC) · Kotlin · MDM Infrastructure
+Stack:  Android Device Owner (DPC), Kotlin, MDM Infrastructure
 Live:   https://qistora.app
 ```
 
@@ -143,7 +145,7 @@ portal for managing borrowers, telemetry, and cashflow.
 ```yaml
 Role:   Solo Developer
 Status: ☑️ Production — #1 Worldwide on Android
-Stack:  Kotlin · Jetpack Compose · Material 3
+Stack:  Kotlin, Jetpack Compose, Material 3
 Users:  50,000+ Downloads
 ```
 
@@ -162,7 +164,7 @@ target GPA forecasting, and professional PDF reporting.
 ```yaml
 Role:   Lead Developer
 Status: ☑️ Production
-Stack:  Next.js · Payload CMS · TypeScript
+Stack:  Next.js, Payload CMS, TypeScript
 Client: Naples, Florida
 ```
 
@@ -181,7 +183,7 @@ CMS-powered content, and polished brand experience.
 ```yaml
 Role:   Lead Developer
 Status: ☑️ Production
-Stack:  React.js · TypeScript · Vite · Tailwind CSS
+Stack:  React.js, TypeScript, Vite, Tailwind CSS
 Client: Chitral, Pakistan
 ```
 
@@ -200,7 +202,7 @@ and integrated desktop hotel management software.
 ```yaml
 Role:   Lead Developer
 Status: ☑️ Production
-Stack:  Electron · React · TypeScript · SQLite
+Stack:  Electron, React, TypeScript, SQLite
 Type:   Desktop Application
 ```
 
