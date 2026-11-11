@@ -1,35 +1,15 @@
-<div align="center">
+**Software Engineer | AI Engineer**
 
-# `SOFTWARE ENGINEER`  `×`  `AI ENGINEER`
+I build production-grade full-stack systems and applied AI products, with a focus on
+machine learning, NLP, LLM engineering, and reliable delivery.
 
-### Full-stack systems. Applied intelligence. Production impact.
+`Python` `PyTorch` `Hugging Face` `Transformers` `NLP` `LLM Engineering` `MLOps`
 
-<p>
-  I design and ship production software and AI-powered systems, from reliable backend
-  infrastructure to practical NLP and LLM applications.
-</p>
+**Core systems:** TypeScript | React | Next.js | Node.js | Laravel | PostgreSQL | Docker
 
-<br>
+<sub><a href="#selected-projects">Selected projects</a> | <a href="https://mishwani.is-a.dev">Portfolio</a></sub>
 
-<a href="#selected-projects">Selected Projects</a>
-&nbsp;&nbsp;|&nbsp;&nbsp;
-<a href="https://mishwani.is-a.dev">Portfolio</a>
-
-</div>
-
-<br />
-
-## Core Stack
-
-**AI / ML:** Python, PyTorch, Hugging Face, Transformers, NLP, LLM Engineering, MLOps
-
-**Systems:** TypeScript, React, Next.js, Node.js, Laravel, PostgreSQL, Docker
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:6634f1,50:b882fc,75:6634f1,100:0d1117&height=1" width="100%" alt="" />
-
-<br>
+---
 
 ## Selected Projects
 
