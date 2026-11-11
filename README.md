@@ -1,24 +1,20 @@
-<div align="center">
+## Software Engineer & AI Engineer
 
-<code>ABUZAR.MISHWANI // ENGINEERING PROFILE</code>
+I build production software and applied AI systems that turn complex workflows into
+reliable, useful products.
 
-## Software Engineer × AI Engineer
+My work spans full-stack architecture, machine learning, NLP, LLM engineering, and
+the infrastructure required to take ideas from prototype to production.
 
-<strong>Production systems. Applied intelligence.</strong>
+**Focus**
 
-<br><br>
+`Applied AI` `Machine Learning` `NLP` `LLM Engineering` `MLOps`
 
-<a href="#selected-projects">SELECTED PROJECTS</a>
-&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-<a href="https://mishwani.is-a.dev">PORTFOLIO</a>
+**Core stack**
 
-</div>
+`Python` `PyTorch` `Hugging Face` `Transformers` `TypeScript` `React` `Next.js` `Node.js` `PostgreSQL` `Docker`
 
-<br>
-
-| BUILDING | AI / ML | SYSTEMS |
-|:---|:---|:---|
-| Full-stack products<br>Production APIs<br>Enterprise software | Python<br>PyTorch<br>Hugging Face<br>Transformers<br>NLP<br>LLM Engineering<br>MLOps | TypeScript<br>React / Next.js<br>Node.js / Laravel<br>PostgreSQL / Docker |
+[Portfolio](https://mishwani.is-a.dev)  |  [Selected projects](#selected-projects)
 
 ---
 
