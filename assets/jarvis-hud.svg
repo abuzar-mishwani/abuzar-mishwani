@@ -1,0 +1,208 @@
+<svg width="850" height="240" viewBox="0 0 850 240" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Cyan & Neon Indigo Hologram Gradients -->
+    <linearGradient id="hud-cyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5ff"/>
+      <stop offset="50%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+
+    <linearGradient id="hud-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#040814"/>
+      <stop offset="50%" stop-color="#060d1f"/>
+      <stop offset="100%" stop-color="#09132b"/>
+    </linearGradient>
+
+    <linearGradient id="glow-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5ff" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#00f5ff" stop-opacity="0.8"/>
+      <stop offset="70%" stop-color="#818cf8" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#00f5ff" stop-opacity="0"/>
+    </linearGradient>
+
+    <!-- Filters for Arc Reactor Hologram Glow -->
+    <filter id="core-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur1"/>
+      <feGaussianBlur stdDeviation="14" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="subtle-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- Tech Grid Background -->
+    <pattern id="hud-grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <path d="M 30 0 L 0 0 0 30" fill="none" stroke="#00f5ff" stroke-width="0.5" stroke-opacity="0.07"/>
+      <circle cx="30" cy="30" r="0.75" fill="#38bdf8" fill-opacity="0.2"/>
+    </pattern>
+
+    <style>
+      @keyframes spinClockwise {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      @keyframes spinCounter {
+        from { transform: rotate(360deg); }
+        to { transform: rotate(0deg); }
+      }
+      @keyframes pulseCore {
+        0%, 100% { transform: scale(1); opacity: 0.85; }
+        50% { transform: scale(1.12); opacity: 1; }
+      }
+      @keyframes radarSweep {
+        0% { transform: rotate(0deg); }
+        100% { transform: rotate(360deg); }
+      }
+      @keyframes blink {
+        0%, 100% { opacity: 1; }
+        50% { opacity: 0.2; }
+      }
+
+      .ring-cw {
+        transform-origin: 740px 120px;
+        animation: spinClockwise 24s linear infinite;
+      }
+      .ring-ccw {
+        transform-origin: 740px 120px;
+        animation: spinCounter 16s linear infinite;
+      }
+      .pulse-center {
+        transform-origin: 740px 120px;
+        animation: pulseCore 3.5s ease-in-out infinite;
+      }
+      .radar-arm {
+        transform-origin: 740px 120px;
+        animation: radarSweep 6s linear infinite;
+      }
+      .live-dot {
+        animation: blink 2s infinite ease-in-out;
+      }
+
+      .hud-title {
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'SF Pro Display', Roboto, sans-serif;
+        font-weight: 800;
+        font-size: 30px;
+        letter-spacing: -0.5px;
+      }
+      .hud-mono {
+        font-family: 'SF Mono', 'Fira Code', 'Roboto Mono', Monaco, Consolas, monospace;
+        letter-spacing: 0.75px;
+      }
+    </style>
+  </defs>
+
+  <!-- Main Background Container -->
+  <rect x="2" y="2" width="846" height="236" rx="14" fill="url(#hud-bg)" stroke="#00f5ff" stroke-opacity="0.3" stroke-width="1.2"/>
+  <rect x="2" y="2" width="846" height="236" rx="14" fill="url(#hud-grid)"/>
+
+  <!-- Top Ambient Glow Line -->
+  <rect x="50" y="2" width="750" height="2" fill="url(#glow-line)"/>
+
+  <!-- Left Futuristic Framing Elements -->
+  <!-- Header Telemetry Row -->
+  <g transform="translate(36, 34)" class="hud-mono">
+    <!-- Blinking Status Indicator -->
+    <circle cx="6" cy="6" r="4.5" fill="#00f5ff" class="live-dot" filter="url(#subtle-glow)"/>
+    <circle cx="6" cy="6" r="2" fill="#ffffff"/>
+    
+    <text x="20" y="10" fill="#00f5ff" font-size="11" font-weight="600" opacity="0.9">
+      J.A.R.V.I.S. // PROTOCOL ACTIVE
+    </text>
+    
+    <text x="240" y="10" fill="#64748b" font-size="11">|</text>
+    <text x="260" y="10" fill="#94a3b8" font-size="11">CORE: <tspan fill="#38bdf8" font-weight="600">ONLINE</tspan></text>
+    
+    <text x="380" y="10" fill="#64748b" font-size="11">|</text>
+    <text x="400" y="10" fill="#94a3b8" font-size="11">SYS: <tspan fill="#a5b4fc" font-weight="600">E.D.I.T.H. v5.0</tspan></text>
+  </g>
+
+  <!-- Main Identity Banner -->
+  <g transform="translate(36, 96)">
+    <text x="0" y="0" fill="url(#hud-cyan)" class="hud-title" filter="url(#subtle-glow)">
+      &lt;AbuZarMishwani /&gt;
+    </text>
+  </g>
+
+  <!-- Primary Subtitle / Discipline -->
+  <g transform="translate(36, 130)" class="hud-mono">
+    <text x="0" y="0" fill="#38bdf8" font-size="13" font-weight="600" letter-spacing="1.5px">
+      SOFTWARE ARCHITECT  //  AI &amp; ML SYSTEMS ENGINEER
+    </text>
+  </g>
+
+  <!-- Cybernetic Focus Vectors -->
+  <g transform="translate(36, 162)" class="hud-mono">
+    <text x="0" y="0" fill="#94a3b8" font-size="12">
+      PARADIGM :: <tspan fill="#f1f5f9" font-weight="600">Autonomous Agents</tspan> · <tspan fill="#f1f5f9" font-weight="600">Neural Synthesis</tspan> · <tspan fill="#f1f5f9" font-weight="600">High-Scale Production</tspan>
+    </text>
+  </g>
+
+  <!-- Bottom Telemetry Chips -->
+  <g transform="translate(36, 202)" class="hud-mono">
+    <!-- Chip 1 -->
+    <rect x="0" y="-14" width="136" height="22" rx="4" fill="#030c1d" stroke="#00f5ff" stroke-width="0.75" stroke-opacity="0.4"/>
+    <text x="10" y="1" fill="#00f5ff" font-size="10.5" font-weight="600">◈ AGENTIC SWARMS</text>
+
+    <!-- Chip 2 -->
+    <rect x="146" y="-14" width="144" height="22" rx="4" fill="#030c1d" stroke="#38bdf8" stroke-width="0.75" stroke-opacity="0.4"/>
+    <text x="156" y="1" fill="#38bdf8" font-size="10.5" font-weight="600">⚡ DEEP REASONING</text>
+
+    <!-- Chip 3 -->
+    <rect x="300" y="-14" width="148" height="22" rx="4" fill="#030c1d" stroke="#818cf8" stroke-width="0.75" stroke-opacity="0.4"/>
+    <text x="310" y="1" fill="#a5b4fc" font-size="10.5" font-weight="600">▲ KERNEL INFRASTRUCTURE</text>
+
+    <!-- Chip 4 -->
+    <rect x="458" y="-14" width="118" height="22" rx="4" fill="#030c1d" stroke="#00f5ff" stroke-width="0.75" stroke-opacity="0.4"/>
+    <text x="468" y="1" fill="#38bdf8" font-size="10.5" font-weight="600">● ZERO LATENCY</text>
+  </g>
+
+  <!-- Right Side: Stark Arc Reactor / Neural Core Hologram -->
+  <g>
+    <!-- Ambient Blue Core Backlight -->
+    <circle cx="740" cy="120" r="75" fill="#00f5ff" fill-opacity="0.08" filter="url(#core-glow)"/>
+
+    <!-- Outer Static Ring with Ticks -->
+    <circle cx="740" cy="120" r="68" stroke="#00f5ff" stroke-opacity="0.25" stroke-width="1"/>
+    
+    <!-- Outer Rotating Segmented Ring -->
+    <circle cx="740" cy="120" r="62" stroke="#38bdf8" stroke-opacity="0.7" stroke-width="1.8" stroke-dasharray="18 12 6 12 36 8" fill="none" class="ring-cw"/>
+
+    <!-- Mid Counter-Rotating Ring with Node Points -->
+    <circle cx="740" cy="120" r="48" stroke="#818cf8" stroke-opacity="0.7" stroke-width="1.5" stroke-dasharray="8 6 24 6" fill="none" class="ring-ccw"/>
+
+    <!-- Inner High-Density Ring -->
+    <circle cx="740" cy="120" r="32" stroke="#00f5ff" stroke-opacity="0.5" stroke-width="1" stroke-dasharray="4 4" fill="none" class="ring-cw"/>
+
+    <!-- Center Glowing Reactor Core -->
+    <circle cx="740" cy="120" r="16" fill="#00f5ff" fill-opacity="0.3" class="pulse-center" filter="url(#core-glow)"/>
+    <circle cx="740" cy="120" r="9" fill="#00f5ff" filter="url(#subtle-glow)"/>
+    <circle cx="740" cy="120" r="4" fill="#ffffff"/>
+
+    <!-- Reticle Crosshairs -->
+    <line x1="740" y1="38" x2="740" y2="52" stroke="#00f5ff" stroke-width="1.5" opacity="0.6"/>
+    <line x1="740" y1="188" x2="740" y2="202" stroke="#00f5ff" stroke-width="1.5" opacity="0.6"/>
+    <line x1="658" y1="120" x2="672" y2="120" stroke="#00f5ff" stroke-width="1.5" opacity="0.6"/>
+    <line x1="808" y1="120" x2="822" y2="120" stroke="#00f5ff" stroke-width="1.5" opacity="0.6"/>
+
+    <!-- Core Center Coordinates / Label -->
+    <text x="740" y="218" text-anchor="middle" fill="#64748b" font-family="'SF Mono', Monaco, monospace" font-size="9" letter-spacing="1px">
+      ARC-CORE // 3.14 THz
+    </text>
+  </g>
+
+  <!-- Futuristic Corner Target Brackets -->
+  <path d="M 12 24 L 12 12 L 24 12" stroke="#00f5ff" stroke-width="1.5" fill="none" opacity="0.7"/>
+  <path d="M 838 24 L 838 12 L 826 12" stroke="#00f5ff" stroke-width="1.5" fill="none" opacity="0.7"/>
+  <path d="M 12 216 L 12 228 L 24 228" stroke="#00f5ff" stroke-width="1.5" fill="none" opacity="0.7"/>
+  <path d="M 838 216 L 838 228 L 826 228" stroke="#00f5ff" stroke-width="1.5" fill="none" opacity="0.7"/>
+</svg>
+
