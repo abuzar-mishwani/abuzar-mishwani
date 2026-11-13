@@ -8,4 +8,8 @@
 
 Building autonomous systems, intelligent agents, and scalable production software.
 
+<br />
+
+`Next.js` · `React` · `TypeScript` · `Python` · `PyTorch` · `FastAPI` · `Kotlin` · `PostgreSQL` · `Docker`
+
 </div>
