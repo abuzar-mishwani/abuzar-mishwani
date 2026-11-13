@@ -10,6 +10,6 @@ Building autonomous systems, intelligent agents, and scalable production softwar
 
 <br />
 
-`Next.js` · `React` · `TypeScript` · `Python` · `PyTorch` · `FastAPI` · `Kotlin` · `PostgreSQL` · `Docker`
+`Python` // `PyTorch` // `LLMs & AI Agents` // `FastAPI` // `Next.js` // `React` // `TypeScript` // `Node.js` // `Laravel` // `PostgreSQL` // `MongoDB` // `Docker`
 
 </div>
